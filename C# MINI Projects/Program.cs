@@ -17,7 +17,7 @@ namespace StudentManagement
                 Console.WriteLine("1. Add Student");
                 Console.WriteLine("2. View All Students");
                 Console.WriteLine("3. Search Student by ID");
-                Console.WriteLine("4. Delete Student by ID");
+                Console.WriteLine("4. Delete Student by   ID");
                 Console.WriteLine("5. Exit");
                 Console.Write("Enter your choice: ");
 
