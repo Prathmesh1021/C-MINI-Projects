@@ -15,7 +15,7 @@ namespace C__MINI_Projects
 
         public void Display()
         {
-            Console.WriteLine($"ID: {Id} | Name: {Name} | Age: {Age} | Course: {Course}");
+            Console.WriteLine($"ID:  {Id} | Name: {Name} | Age: {Age} | Course: {Course}");
         }
     }
 }
