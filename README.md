@@ -13,7 +13,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
 - [License](#license)
 - [Author](#author)
 
@@ -108,13 +107,6 @@ Computer Science
 - 💾 Save data to file or database
 - ✅ Add input validation & exception handling
 - 🧱 Develop a GUI (Windows Forms/WPF)
-
----
-
-## Contributing
-
-Contributions welcome!  
-Open issues, submit improvements, or fork and make a pull request.
 
 ---
 
