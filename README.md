@@ -109,15 +109,9 @@ Computer Science
 
 ---
 
-## License
-
-[MIT License](LICENSE) (or your preferred license).
-
----
-
 ## Author
 
 **Prathmesh Vasantrao Patil**  
-**ppatil1021@gmail.com**
 🎓 BTech Student — PVPIT Budhgaon  
-📧 [ppatil1021@gmail.com]
+**ppatil1021@gmail.com**
+
