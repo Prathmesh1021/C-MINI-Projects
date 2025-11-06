@@ -1,10 +1,10 @@
-🎓 Student Management System — C# Mini Project
+✅ 🎓 Student Management System — C# Mini Project
 
 This project is a simple C# Console Application designed to demonstrate the fundamentals of Object-Oriented Programming (OOP) and CRUD operations in C#.
 It manages a list of students using a user-friendly command-line menu.
 
 
-🧩 Overview
+✅ 🧩 Overview
 
 The Student Management System allows users to:
 
@@ -29,7 +29,7 @@ This project is perfect for beginners to learn:
 ⌨️ User input/output handling
 
 
-📁 Project Structure
+✅ 📁 Project Structure
 📦 StudentManagementSystem
 ├── Program.cs
 └── Student.cs
@@ -44,7 +44,7 @@ Feature	Description
 🚪 Exit	Closes the program gracefully
 
 
-🧠 How It Works
+✅ 🧠 How It Works
 
 When the program starts, it displays a menu like this:
 
@@ -56,11 +56,10 @@ When the program starts, it displays a menu like this:
 5. Exit
 Enter your choice:
 
-
 You can perform operations by entering a number between 1 and 5.
 
 
-⚙️ How to Run the Project
+✅ ⚙️ How to Run the Project
 
 ▶ Option 1 — Using Visual Studio
 
@@ -79,7 +78,7 @@ dotnet run
 
 
 
-🚀 Future Enhancements
+✅ 🚀 Future Enhancements
 
 ✏️ Add Edit/Update student details
 
@@ -90,7 +89,7 @@ dotnet run
 🧱 Develop a Windows Forms or WPF GUI version
 
 
-👨‍💻 Author
+✅ 👨‍💻 Author
 
 Prathmesh Vasantrao Patil
 🎓 BTech Student — PVPIT Budhgaon
