@@ -68,7 +68,7 @@ Press Ctrl + F5 to build and run the project
 
 ▶ Option 2 — Using .NET CLI
  Clone the repository
-git clone https://github.com/YourUsername/StudentManagementSystem.git
+git clone https://github.com/Prathmesh1021/C-Sharp-MINI-Projects/tree/master/C%23%20MINI%20Projects
 
 Navigate to the folder
 cd StudentManagementSystem
