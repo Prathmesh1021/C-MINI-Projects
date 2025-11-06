@@ -13,7 +13,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 - [Author](#author)
 
 ---
