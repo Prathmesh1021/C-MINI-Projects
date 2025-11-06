@@ -64,17 +64,16 @@ You can perform operations by entering a number between 1 and 5.
 ▶ Option 1 — Using Visual Studio
 
 Open the project folder in Visual Studio
-
 Press Ctrl + F5 to build and run the project
 
 ▶ Option 2 — Using .NET CLI
-# Clone the repository
+ Clone the repository
 git clone https://github.com/YourUsername/StudentManagementSystem.git
 
-# Navigate to the folder
+Navigate to the folder
 cd StudentManagementSystem
 
-# Run the program
+ Run the program
 dotnet run
 
 
