@@ -3,6 +3,7 @@
 This project is a simple C# Console Application designed to demonstrate the fundamentals of Object-Oriented Programming (OOP) and CRUD operations in C#.
 It manages a list of students using a user-friendly command-line menu.
 
+
 🧩 Overview
 
 The Student Management System allows users to:
@@ -27,10 +28,12 @@ This project is perfect for beginners to learn:
 
 ⌨️ User input/output handling
 
+
 📁 Project Structure
 📦 StudentManagementSystem
 ├── Program.cs
 └── Student.cs
+
 
 💻 Features
 Feature	Description
@@ -39,6 +42,8 @@ Feature	Description
 🔍 Search Student	Finds a student by their ID
 ❌ Delete Student	Removes a student record by ID
 🚪 Exit	Closes the program gracefully
+
+
 🧠 How It Works
 
 When the program starts, it displays a menu like this:
@@ -53,6 +58,7 @@ Enter your choice:
 
 
 You can perform operations by entering a number between 1 and 5.
+
 
 ⚙️ How to Run the Project
 ▶ Option 1 — Using Visual Studio
@@ -72,6 +78,7 @@ cd StudentManagementSystem
 dotnet run
 
 
+
 🚀 Future Enhancements
 
 ✏️ Add Edit/Update student details
@@ -81,6 +88,7 @@ dotnet run
 ✅ Add validation and exception handling
 
 🧱 Develop a Windows Forms or WPF GUI version
+
 
 👨‍💻 Author
 
